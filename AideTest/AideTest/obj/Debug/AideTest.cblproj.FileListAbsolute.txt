@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\AideTest\AideTest\bin\Debug\AideTest.exe
+C:\Users\thoma\source\repos\AideTest\AideTest\bin\Debug\AideTest.pdb
+C:\Users\thoma\source\repos\AideTest\AideTest\bin\Debug\AideTest.AideTest_Program1.idy
+C:\Users\thoma\source\repos\AideTest\AideTest\obj\Debug\AideTest.cblprojAssemblyReference.cache
+C:\Users\thoma\source\repos\AideTest\AideTest\obj\Debug\AideTest.cblproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\AideTest\AideTest\obj\Debug\AideTest.exe
+C:\Users\thoma\source\repos\AideTest\AideTest\obj\Debug\AideTest.pdb
+C:\Users\thoma\source\repos\AideTest\AideTest\obj\Debug\AideTest.AideTest_Program1.idy

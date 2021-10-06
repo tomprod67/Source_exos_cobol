@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LanguageTargets Condition="'$(MSBuildProjectExtension)' == '.cblproj'">$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets</LanguageTargets>
+    <LanguageTargets Condition="!Exists('$(LanguageTargets)')">$(MSBuildProgramFiles32)\MSBuild\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets</LanguageTargets>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <SQLDirectives>SQL(DBMAN=ADO) SQL(DB=DESKTOP-JH1VHLN\SQLEXPRESS01.SCORPION) SQL(TARGETDB=MSSQLSERVER) SQL(BEHAVIOR=ANSI)</SQLDirectives>
+    <OutputName>TestTuto</OutputName>
+    <RootNamespace>TestTuto</RootNamespace>
+    <MFVersion>1.0.0.0</MFVersion>
+    <SignAssembly>False</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program1.cbl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="System" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Text" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+</Project>

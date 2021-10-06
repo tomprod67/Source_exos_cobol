@@ -1,0 +1,23 @@
+       ENVIRONMENT DIVISION,
+        CONFIGURATION SECTION.
+         SOURCE-COMPUTER. NomMachine.
+       AUTHOR.
+       	Hervé LEDUC.
+       SPECIAL-NAMES.
+       	 CURRENCY SIGN IS €.
+       	DECIMAL POINT IS COMMA.
+       INPUT-OUTPUT SECTION.
+       FILE-CONTROL.
+       	SELECT F-COMPTE ASSIGN TO “C:\FICHIER\COMPTE.
+           dat“
+       		ORGANIZATION INDEXED
+       		RECORD KEY IS NoCompte
+       		ALTERNATE RECORD KEY IS CodeClient.
+       	SELECT F-TYPECOMPTE ASSIGN TO “C:\FICHIER\TYPECOMPTE.
+           dat“
+       		ORGANIZATION RELATIVE.
+       	SELECT F-CLIENT ASSIGN TO “C:\FICHIER\CLIENT.
+           dat“
+       		ORGANIZATION INDEXED
+       		RECORD KEY IS CodeClient
+       		ALTERNATE RECORD KEY IS VilleClient.

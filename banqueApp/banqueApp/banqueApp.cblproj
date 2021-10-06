@@ -1,0 +1,30 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <ProjectGuid>{B297BE8A-0516-4D56-9C5C-E92BE753E659}</ProjectGuid>
+    <OutputName>banqueApp</OutputName>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>banqueApp</RootNamespace>
+    <MFProjectType>Native</MFProjectType>
+    <SQLDirectives>SQL(DBMAN=ODBC) SQL(DB=DESKTOP-JH1VHLN\SQLEXPRESS01.SCORPION) SQL(TARGETDB=MSSQLSERVER) SQL(BEHAVIOR=ANSI)</SQLDirectives>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <OutputPath>.\bin\x86\Debug\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <ManagedCode>False</ManagedCode>
+    <DebugSymbols>True</DebugSymbols>
+    <MaxError>100</MaxError>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>.\bin\x86\Release\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <ManagedCode>False</ManagedCode>
+    <DebugSymbols>False</DebugSymbols>
+    <MaxError>100</MaxError>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program1.cbl" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
+</Project>

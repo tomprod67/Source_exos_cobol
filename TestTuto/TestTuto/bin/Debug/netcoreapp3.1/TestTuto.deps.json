@@ -1,0 +1,498 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestTuto/1.0.0": {
+        "dependencies": {
+          "MicroFocus.COBOL.Runtime": "2.60.0"
+        },
+        "runtime": {
+          "TestTuto.dll": {}
+        }
+      },
+      "MicroFocus.COBOL.Runtime/2.60.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "4.5.0",
+          "System.Security.Permissions": "4.5.0",
+          "System.Text.Encoding.CodePages": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MicroFocus.COBOL.AcceptDisplay.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.CDI2.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.Safe.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Messages.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.Platform.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.SLR.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.RuntimeServices.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.Platform.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.XmlParse.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.COBOL.Xmlgen.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "lib/netcoreapp3.1/MicroFocus.IMRT.JSON.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "resources": {
+          "lib/netcoreapp3.1/en-GB/MicroFocus.COBOL.Messages.resources.dll": {
+            "locale": "en-GB"
+          },
+          "lib/netcoreapp3.1/en-US/MicroFocus.COBOL.Messages.resources.dll": {
+            "locale": "en-US"
+          },
+          "lib/netcoreapp3.1/ja/MicroFocus.COBOL.Messages.resources.dll": {
+            "locale": "ja"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.AcceptDisplay.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.CDI2.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.Safe.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Messages.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.Platform.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.SLR.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.RuntimeServices.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.Platform.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.XmlParse.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.COBOL.Xmlgen.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/linux-x64/lib/netcoreapp3.1/MicroFocus.IMRT.JSON.dll": {
+            "rid": "linux-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.AcceptDisplay.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.CDI2.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.Safe.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.FileHandler.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.Platform.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.SLR.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Runtime.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.RuntimeServices.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.Platform.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Tracing.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.XmlParse.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.COBOL.Xmlgen.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win/lib/netcoreapp3.1/MicroFocus.IMRT.JSON.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobcallrb64.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobextsm64.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobmffh64.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobnativefilehandler64.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobrtload64_t.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/cobtcp64_t.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobcrtn64.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobctf64_t.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobmfcrypt64_t.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobmfcrypt64_t.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobmisc64_t.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobrts64_t.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobscreen64_t.so.4": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobtrace64_t.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netcoreapp3.1/libcobtrace64_t.so.3": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/netcoreapp3.1/cblrtsm.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win-x64/native/netcoreapp3.1/cblviom.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win-x64/native/netcoreapp3.1/mffh.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win-x86/native/netcoreapp3.1/cblrtsm.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win-x86/native/netcoreapp3.1/cblviom.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          },
+          "runtimes/win-x86/native/netcoreapp3.1/mffh.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "6000.0.0.69"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "System.Configuration.ConfigurationManager/4.5.0": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.5.0",
+          "System.Security.Permissions": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Security.AccessControl/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "System.Security.Principal.Windows": "4.5.0"
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Security.Permissions/4.5.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      },
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroFocus.COBOL.Runtime/2.60.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5QAKsYh1SJTRCbriBuMGbj0ZRf+UyJAzkHr+hYxFbcX+DgoAIYccG87lnZqdSTC7KOZeHPhvS40v6qfNp3KCBQ==",
+      "path": "microfocus.cobol.runtime/2.60.0",
+      "hashPath": "microfocus.cobol.runtime.2.60.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIFvaFfuKhLr9u5tWMxmVoDPkFeD+Qv8gUuap4aZgVGYSYMdERck4OhLN/2gulAc0nYTEigWXSJNNWshrmxnng==",
+      "path": "system.configuration.configurationmanager/4.5.0",
+      "hashPath": "system.configuration.configurationmanager.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrzNWduCDHhUaSRBxHxL11UkM2fD6y8hITHis4/LbQZ6vj3vdRjoH3IoPWWC9uDXK2wHIqn+b5gv1Np/VKyM1g==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==",
+      "path": "system.security.accesscontrol/4.5.0",
+      "hashPath": "system.security.accesscontrol.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wLBKzFnDCxP12VL9ANydSYhk59fC4cvOr9ypYQLPnAj48NQIhqnjdD2yhP8yEKyBJEjERWS9DisKL7rX5eU25Q==",
+      "path": "system.security.cryptography.protecteddata/4.5.0",
+      "hashPath": "system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9gdyuARhUR7H+p5CjyUB/zPk7/Xut3wUSP8NJQB6iZr8L3XUXTMdoLeVAg9N4rqF8oIpE7MpdqHdDHQ7XgJe0g==",
+      "path": "system.security.permissions/4.5.0",
+      "hashPath": "system.security.permissions.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
+      "path": "system.security.principal.windows/4.5.0",
+      "hashPath": "system.security.principal.windows.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S0wEUiKcLvRlkFUXca8uio1UQ5bYQzYgOmOKtCqaBQC3GR9AJjh43otcM32IGsAyvadFTaAMw9Irm6dS4Evfng==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    }
+  }
+}

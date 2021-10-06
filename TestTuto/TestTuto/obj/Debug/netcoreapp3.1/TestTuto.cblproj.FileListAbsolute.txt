@@ -1,0 +1,2 @@
+C:\Users\thoma\source\repos\TestTuto\TestTuto\obj\Debug\netcoreapp3.1\TestTuto.cblprojAssemblyReference.cache
+C:\Users\thoma\source\repos\TestTuto\TestTuto\obj\Debug\netcoreapp3.1\TestTuto.cblproj.CoreCompileInputs.cache

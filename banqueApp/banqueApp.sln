@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "banqueApp", "banqueApp\banqueApp.cblproj", "{B297BE8A-0516-4D56-9C5C-E92BE753E659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B297BE8A-0516-4D56-9C5C-E92BE753E659}.Debug|x86.ActiveCfg = Debug|x86
+		{B297BE8A-0516-4D56-9C5C-E92BE753E659}.Debug|x86.Build.0 = Debug|x86
+		{B297BE8A-0516-4D56-9C5C-E92BE753E659}.Release|x86.ActiveCfg = Release|x86
+		{B297BE8A-0516-4D56-9C5C-E92BE753E659}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327BC746-CEA4-4A0E-AC35-0076D65DE3C6}
+	EndGlobalSection
+EndGlobal

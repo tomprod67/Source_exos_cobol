@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\bin\Debug\appliBanque2.exe
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\bin\Debug\appliBanque2.pdb
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\obj\Debug\appliBanque2.cblprojAssemblyReference.cache
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\obj\Debug\appliBanque2.cblproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\obj\Debug\appliBanque2.exe
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\obj\Debug\appliBanque2.pdb
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\bin\Debug\appliBanque2.AppliBanque2_Program1.idy
+C:\Users\thoma\source\repos\appliBanque2\appliBanque2\obj\Debug\appliBanque2.AppliBanque2_Program1.idy

@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\bin\Debug\Fdj_Statitic.exe
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\bin\Debug\Fdj_Statitic.pdb
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\bin\Debug\Fdj_Statitic.Fdj_Statitic_Program1.idy
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\obj\Debug\Fdj-Statitic.cblprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\obj\Debug\Fdj-Statitic.cblproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\obj\Debug\Fdj_Statitic.exe
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\obj\Debug\Fdj_Statitic.pdb
+C:\Users\thoma\source\repos\Fdj-Statitic\Fdj-Statitic\obj\Debug\Fdj_Statitic.Fdj_Statitic_Program1.idy

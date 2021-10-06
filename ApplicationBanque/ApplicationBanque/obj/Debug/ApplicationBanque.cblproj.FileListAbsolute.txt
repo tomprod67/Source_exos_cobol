@@ -1,0 +1,8 @@
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\obj\Debug\ApplicationBanque.cblprojAssemblyReference.cache
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\obj\Debug\ApplicationBanque.cblproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\bin\Debug\ApplicationBanque.exe
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\bin\Debug\ApplicationBanque.pdb
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\bin\Debug\ApplicationBanque.ApplicationBanque_Program1.idy
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\obj\Debug\ApplicationBanque.exe
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\obj\Debug\ApplicationBanque.pdb
+C:\Users\thoma\source\repos\ApplicationBanque\ApplicationBanque\obj\Debug\ApplicationBanque.ApplicationBanque_Program1.idy
